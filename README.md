@@ -1,4 +1,4 @@
-# flask-chatbot
+# Chatbot for disease prediction and treatment recommendation using machine learning
 Built on python 3.6
 Flask==0.11
 chatterbot==0.8.4

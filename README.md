@@ -1,6 +1,6 @@
 # Chatbot for disease prediction and treatment recommendation using machine learning
 
-This project implements a chatbot that predicts diseases and recommends treatments using machine learning algorithms such as Naive Bayes and Decision Tree. Built with Python 3.6, Flask, and ChatterBot, the chatbot analyzes user-reported symptoms to provide accurate health insights and treatment recommendations. The system utilizes a preprocessed medical dataset for training and employs natural language processing to interpret user inputs.
+This project implements a chatbot that predicts diseases and recommends treatments using machine learning algorithms such as Naive Bayes and Decision Tree. Built with Python 3.6, Flask, and ChatterBot, the chatbot analyzes user-reported symptoms to provide accurate health insights and treatment recommendations. The system utilizes a preprocessed medical dataset for training and employs natural language processing to interpret user inputs. The research paper detailing this project was published in High Technology Letters, Volume 27, Issue 6, 2021.
 
 ## Built With 
 #### A web implementation of [ChatterBot](https://github.com/gunthercox/ChatterBot) using Flask.

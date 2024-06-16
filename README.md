@@ -19,10 +19,10 @@ This project implements a chatbot that predicts diseases and recommends treatmen
 - pip (Python package installer)
 
 ## Local Setup:
-#### 1. Install dependencies: Open command prompt and locate folder. run 'pip install -r requirements.txt' 
-#### 2. Train the Chatbot: Run *train.py*
-#### 3. Run the application: *run.py*
-#### 4. Acess the Demo: Demo will be live at http://localhost:5000/
+##### 1. Install dependencies: Open command prompt and locate folder. run 'pip install -r requirements.txt' 
+##### 2. Train the Chatbot: Run *train.py*
+##### 3. Run the application: *run.py*
+##### 4. Acess the Demo: Demo will be live at http://localhost:5000/
 
 ## Files and Directories
 - train.py: Script to train the chatbot using predefined datasets.
